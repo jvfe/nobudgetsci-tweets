@@ -11,6 +11,13 @@ Todos os códigos deste repositório estão disponíveis para livre uso sob a li
 
 * Clique com o botão direito do seu mouse e selecione "Salvar página como"
 
+* O dado tem as seguintes colunas:
+  
+  * paper_link: O link do preprint.
+  * paper_title: O título do preprint.
+  * handle: O handle do twitter do usuário que compartilhou o preprint.
+  * message: O texto da postagem do usuário - Essa informação muitas vezes tá cortada, por causa da forma pela qual a página carrega.
+
 # Reproduzindo a extração de dados
 
 * [Como instalar o gerenciador conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
