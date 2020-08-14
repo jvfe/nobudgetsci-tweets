@@ -5,6 +5,12 @@ Não é o meu projeto principal durante a hackathon.
 
 Todos os códigos deste repositório estão disponíveis para livre uso sob a licença MIT. 
 
+# Para baixar os dados
+
+* [Vá para este link](https://raw.githubusercontent.com/jvfe/nobudgetsci-tweets/master/data/preprint_tweets.csv)
+
+* Clique com o botão direito do seu mouse e selecione "Salvar página como"
+
 # Reproduzindo a extração de dados
 
 * [Como instalar o gerenciador conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
