@@ -17,6 +17,6 @@ Todos os códigos deste repositório estão disponíveis para livre uso sob a li
 
 ```$ conda activate nobudgetsci-tweets```
 
-* Rode o *crawler* ou "raspador" - **Essa atividade leva bastante tempo, para mudar a quantidade de preprints que deseja raspar, altere o parâmetro "max_preprints" dentro de scrape_tweets.py.
+* Rode o *crawler* ou "raspador" - **Essa atividade leva bastante tempo, para mudar a quantidade de preprints que deseja raspar, altere o parâmetro "max_preprints" dentro de scrape_tweets.py.**
 
 ```$ python scrape_tweets.py"```
